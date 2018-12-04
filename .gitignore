@@ -6,3 +6,4 @@ ebin/
 .eunit/
 _build
 rebar.lock
+.idea/*
